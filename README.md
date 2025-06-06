@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi there, I'm Sai Priya Kaipu
 
-<!--
-**SaiPriyaKaipu/SaiPriyaKaipu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Analytics Graduate | 💻 Former Microsoft BI Developer | 💻 Former Microsoft BI Analyst| 💻 Former Data ANalyst Intern  | 📊 Aspiring Business Analyst
 
-Here are some ideas to get you started:
+I'm a results-driven professional with over five years of experience in data integration, reporting, and analytics. With a strong foundation in SQL, Power BI, SSRS, and Excel — along with hands-on experience using Python and R for business insights — I’m passionate about using data to support smart decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 My focus lies in transforming raw data into meaningful stories, improving data quality, and building scalable reporting solutions for operational and compliance needs.
+
+---
+
+### 🛠️ Tools & Skills
+SQL • Power BI • SSRS • Excel • Python • DAX • SDLC • Data Governance • Tabular Editor • Git • Agile
+
+---
+
+📫 **Let’s connect**:  
+[LinkedIn](https://www.linkedin.com/in/your-link-here)  
