@@ -9,7 +9,7 @@ I'm a results-driven professional with over five years of experience in data int
 ---
 
 ### 🛠️ Tools & Skills
-SQL • Power BI • SSRS • Excel • Python • DAX • SDLC • Data Governance • Tabular Editor • Git • Agile
+SQL • SSIS •Power BI • SSRS • Excel • Python • DAX • SDLC • Data Governance • Tabular Editor • Git • Agile • Service Now • JIRA • Visual Studio • TFS
 
 ---
 
