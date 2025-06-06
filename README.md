@@ -15,3 +15,5 @@ SQL • SSIS •Power BI • SSRS • Excel • Python • DAX • SDLC • Data
 
 📫 **Let’s connect**:  
 [LinkedIn](https://www.linkedin.com/in/saipriyakaipu/)  
+
+---
