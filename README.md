@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Sai Priya Kaipu
 
-🎓 Business Analytics Graduate | 💻 Former Microsoft BI Developer | 💻 Former Microsoft BI Analyst| 💻 Former Data Analyst Intern  | 📊 Aspiring Business Analyst
+🎓 Business Analytics Graduate | 💻 Former Microsoft BI Analyst| 💻 Former Data Analyst Intern  | 📊 Aspiring Business Analyst
 
 I'm a results-driven professional with over five years of experience in data integration, reporting, and analytics. With a strong foundation in SQL, Power BI, SSRS, and Excel — along with hands-on experience using Python and R for business insights — I’m passionate about using data to support smart decision-making.
 
